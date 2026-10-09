@@ -2,4 +2,3 @@
 Hello, local world!
 
 делаем конфликт
-лок
